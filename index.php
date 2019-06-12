@@ -71,10 +71,11 @@
               <main role="main" class="col-12 col-md-9 col-lg-10 px-4">
                 Interfaz de prueba para HPCCH</br>
                 What the hell am i doing!!!</br>
+                <?php
+                    echo("ESTE ES UN CÓDIGO PHP");
+                ?>
               </main>
-      
             </div>
-      
           </div>
     </body>
 </html>
